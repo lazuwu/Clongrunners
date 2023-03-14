@@ -1,8 +1,8 @@
 {
   "Browser": {
-    "Icon": "",
+    "Icon": "https://imgur.com/a/ovCDeQ4.png",
     "Thumbnail": "",
-    "Desc_Hint": "",
+    "Desc_Hint": "Women kissing :3",
     "Desc_Full": "",
     "Desc_Server_List": "",
     "Login_Token": "",
@@ -354,8 +354,8 @@
       "Can_Target_Barricades": true,
       "Can_Target_Structures": true,
       "Can_Target_Vehicles": true,
-      "Beacon_Max_Rewards": 0,
-      "Beacon_Max_Participants": 0,
+      "Beacon_Max_Rewards": 3,
+      "Beacon_Max_Participants": 6,
       "Beacon_Rewards_Multiplier": 1.0
     },
     "Animals": {
@@ -577,7 +577,7 @@
       "Can_Target_Barricades": true,
       "Can_Target_Structures": true,
       "Can_Target_Vehicles": true,
-      "Beacon_Max_Rewards": 0,
+      "Beacon_Max_Rewards": 5,
       "Beacon_Max_Participants": 0,
       "Beacon_Rewards_Multiplier": 1.0
     },
@@ -698,8 +698,8 @@
     },
     "Gameplay": {
       "Repair_Level_Max": 3,
-      "Hitmarkers": false,
-      "Crosshair": false,
+      "Hitmarkers": true,
+      "Crosshair": true,
       "Ballistics": true,
       "Chart": false,
       "Satellite": false,
@@ -714,7 +714,7 @@
       "Friendly_Fire": false,
       "Bypass_Buildable_Mobility": false,
       "Allow_Holidays": true,
-      "Timer_Exit": 10,
+      "Timer_Exit": 5,
       "Timer_Respawn": 10,
       "Timer_Home": 30,
       "Timer_Leave_Group": 30,
