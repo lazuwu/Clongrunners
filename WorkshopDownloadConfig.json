@@ -2,7 +2,11 @@
   "File_IDs": [
     2683620106,
     2930607801,
-    2834056433
+    2834056433,
+    2943502367,
+    2903473715,
+    2854598887,
+    2898579007
   ],
   "Ignore_Children_File_IDs": [],
   "Query_Cache_Max_Age_Seconds": 600,
@@ -10,6 +14,6 @@
   "Use_Cached_Downloads": true,
   "Should_Monitor_Updates": true,
   "Shutdown_Update_Detected_Timer": 600,
-  "Shutdown_Update_Detected_Message": "Workshop file update detected, shutdown in: {0}",
+  "Shutdown_Update_Detected_Message": "Workshop file/s update detected, shutdown in: {0}",
   "Shutdown_Kick_Message": "Shutdown for Workshop file update."
 }
